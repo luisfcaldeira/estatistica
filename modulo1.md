@@ -12,7 +12,7 @@ Divide a amostra na metade
 É o valor que mais aparece na amostra
 
 ### Dados assimétricos
-![Dados assimétricos](images/dados-assimetricos.png)
+![Dados assimétricos](images/modulo1/dados-assimetricos.png)
 
 ### Medida de tendência central
 Não há uma regra absoluta, mas:
@@ -22,7 +22,7 @@ Não há uma regra absoluta, mas:
 ### Medida de variabilidade
 Às vezes é necessário estabelecer mais de uma medida para determinar qual é a variabilidade de uma amostra. 
 
-![Medida de variabilidade](images/medida-de-variabilidade.png)
+![Medida de variabilidade](images/modulo1/medida-de-variabilidade.png)
 
 ### Amplitude
 É a diferença entre o menor valor e o maior valor. Denotado por _A_
@@ -33,10 +33,10 @@ _Sigma_ é usado para representar a o desvio padrão da população. Já, para a
 Variância é igual ao desvio padrão ao quadrado. 
 
 #### Fórmula:
-![Fórmula da variância e do desvio padrão](images/variancia-desvio-padrao-formula.png)
+![Fórmula da variância e do desvio padrão](images/modulo1/variancia-desvio-padrao-formula.png)
 
 #### Exemplo de uso:
-![Exemplo de uso da variância e do desvio padrão](images/grafico-exemplo-uso-formula-variancia-desvio-padrao.png)
+![Exemplo de uso da variância e do desvio padrão](images/modulo1/grafico-exemplo-uso-formula-variancia-desvio-padrao.png)
 
 ### Coeficiente de variação
 É útil porque não tem unidade de medida. Ou seja, é uma medida relativa. É bom para analisar a variabilidade dos dados. 
@@ -53,7 +53,7 @@ Conjunto de valores | Média | Desvio padrão | Coeficiente de variação |
 - Os níveis de variabilidade nos conjuntos 1 e 3 são proporcionalmente iguais, logo, eles têm o mesmo coeficiente de variação.
 
 #### Fórmula:
-![Fórmula do coeficiente de variação](images/formula-coeficiente-variacao.png)
+![Fórmula do coeficiente de variação](images/modulo1/formula-coeficiente-variacao.png)
 
 Sua expressão se dá em porcentagem e podemos classificá-lo como a seguir:
 
@@ -74,23 +74,23 @@ Basicamente são representações em %. O mais fragmentado dele é o percentil, 
 Decis representa 10 percentis (dividindo a amostra em 10 grupos) e quartis representam 25 percentis (divide a amostra em 4 grupos)
 
 #### Fórmula do percentil
-![Fórmula do percentil](images/formula-percentil.png)
+![Fórmula do percentil](images/modulo1/formula-percentil.png)
 
 Se o resultado for inteiro, precisa tirar a média do valor na posição encontrada e a próxima posição
 
-![Exemplo do percentil](images/exemplo-percentil.png)
+![Exemplo do percentil](images/modulo1/exemplo-percentil.png)
 
 Posição 9 = 77 e 10 = 79
 
 Se der um número quebrado, arredonda para cima
-![Exemplo do percentil 2](images/exemplo-percentil-2.png)
+![Exemplo do percentil 2](images/modulo1/exemplo-percentil-2.png)
 
 ### Converter o valor para Escore z 
 e determinar qual a distância que o valor procurado está da média (em desvio padrão)
 
 (O objetivo de se calcular o escore z é expressar em unidades de desvio padrão quanto um determinado número está distante da média.)
 
-![Converter para escore](images/formula-converter-escore.png)
+![Converter para escore](images/modulo1/formula-converter-escore.png)
 
 X ( valor que você quer converter)
 X linha: média
